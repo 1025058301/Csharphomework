@@ -1,7 +1,0 @@
-F:\C#\homework3\homework3\bin\Debug\homework3.exe.config
-F:\C#\homework3\homework3\bin\Debug\homework3.exe
-F:\C#\homework3\homework3\bin\Debug\homework3.pdb
-F:\C#\homework3\homework3\obj\Debug\homework3.csprojResolveAssemblyReference.cache
-F:\C#\homework3\homework3\obj\Debug\homework3.csproj.CoreCompileInputs.cache
-F:\C#\homework3\homework3\obj\Debug\homework3.exe
-F:\C#\homework3\homework3\obj\Debug\homework3.pdb
