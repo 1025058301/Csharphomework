@@ -1,0 +1,10 @@
+F:\C#\fifthhomework1\painttree\bin\Debug\painttree.exe.config
+F:\C#\fifthhomework1\painttree\bin\Debug\painttree.exe
+F:\C#\fifthhomework1\painttree\bin\Debug\painttree.pdb
+F:\C#\fifthhomework1\painttree\obj\Debug\painttree.Form1.resources
+F:\C#\fifthhomework1\painttree\obj\Debug\painttree.Properties.Resources.resources
+F:\C#\fifthhomework1\painttree\obj\Debug\painttree.csproj.GenerateResource.Cache
+F:\C#\fifthhomework1\painttree\obj\Debug\painttree.csproj.CoreCompileInputs.cache
+F:\C#\fifthhomework1\painttree\obj\Debug\painttree.exe
+F:\C#\fifthhomework1\painttree\obj\Debug\painttree.pdb
+F:\C#\fifthhomework1\painttree\obj\Debug\painttree.csprojResolveAssemblyReference.cache

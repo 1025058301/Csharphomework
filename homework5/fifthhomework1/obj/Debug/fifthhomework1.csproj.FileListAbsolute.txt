@@ -1,0 +1,7 @@
+F:\C#\fifthhomework1\fifthhomework1\bin\Debug\fifthhomework1.exe.config
+F:\C#\fifthhomework1\fifthhomework1\bin\Debug\fifthhomework1.exe
+F:\C#\fifthhomework1\fifthhomework1\bin\Debug\fifthhomework1.pdb
+F:\C#\fifthhomework1\fifthhomework1\obj\Debug\fifthhomework1.csprojResolveAssemblyReference.cache
+F:\C#\fifthhomework1\fifthhomework1\obj\Debug\fifthhomework1.csproj.CoreCompileInputs.cache
+F:\C#\fifthhomework1\fifthhomework1\obj\Debug\fifthhomework1.exe
+F:\C#\fifthhomework1\fifthhomework1\obj\Debug\fifthhomework1.pdb
