@@ -1,0 +1,7 @@
+F:\C#\sixthhomework\sixthhomework\bin\Debug\sixthhomework.exe.config
+F:\C#\sixthhomework\sixthhomework\bin\Debug\sixthhomework.exe
+F:\C#\sixthhomework\sixthhomework\bin\Debug\sixthhomework.pdb
+F:\C#\sixthhomework\sixthhomework\obj\Debug\sixthhomework.csprojResolveAssemblyReference.cache
+F:\C#\sixthhomework\sixthhomework\obj\Debug\sixthhomework.csproj.CoreCompileInputs.cache
+F:\C#\sixthhomework\sixthhomework\obj\Debug\sixthhomework.exe
+F:\C#\sixthhomework\sixthhomework\obj\Debug\sixthhomework.pdb
