@@ -1,0 +1,14 @@
+F:\C#\sixthhomework\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\C#\sixthhomework\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\C#\sixthhomework\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\C#\sixthhomework\WindowsFormsApp2\bin\Debug\sixthhomework.exe
+F:\C#\sixthhomework\WindowsFormsApp2\bin\Debug\sixthhomework.pdb
+F:\C#\sixthhomework\WindowsFormsApp2\bin\Debug\sixthhomework.exe.config
+F:\C#\sixthhomework\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+F:\C#\sixthhomework\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\C#\sixthhomework\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\C#\sixthhomework\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\C#\sixthhomework\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+F:\C#\sixthhomework\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\C#\sixthhomework\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\C#\sixthhomework\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
